@@ -1,5 +1,5 @@
 ### Hi there 👋
-🎀 I'm Natasha, an incoming Masters student in software engineering <br>
+🎀 I'm Natasha, an aspiring software engineer <br>
 💜 Topics of interest: Cybersecurity, AI, Full stack development, Cloud computing <br>
 🌟 Check out my Stars tab for curated lists of different projects I've worked on! <br>
 <hr>
