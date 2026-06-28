@@ -36,9 +36,14 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natasha-naorem)
-&nbsp;
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-B19CD9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://natt-n.github.io/nats-portfolio/)
 &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFE0D6?style=for-the-badge&logo=leetcode&logoColor=9D7FC0)](https://leetcode.com/u/user1385de/)
+&nbsp;
+[![Credly](https://img.shields.io/badge/Credly-CBA0C8?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/natasha-naorem)
+&nbsp;
+
 
 </div>
 
