@@ -5,10 +5,10 @@
 -->
 
 <!-- ✦ STATIC fallback banner (soft lavender→cream) — swap text/colors anytime ✦ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E6E6FA,55:F3E8FF,100:FFF1E6&text=welcome%20to%20my%20corner%20%E2%9C%BF&fontColor=9D7FC0&fontSize=38&fontAlignY=36&desc=so%20glad%20you're%20here!&descColor=B59FD0&descSize=18&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:E6E6FA,55:F3E8FF,100:FFF1E6&text=nat's%20corner&fontColor=9D7FC0&fontSize=38&fontAlignY=42" width="100%" />
 
 <!-- ✦ Animated typing greeting ✦ -->
-[![greeting](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3500&pause=900&color=B19CD9&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+%5BNat%5D!+%F0%9F%92%9C;Welcome+to+my+little+space+%E2%9C%A8;so+happy+you+stopped+by!+%F0%9F%92%96)](https://github.com/[natt-n])
+[![greeting](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3500&pause=900&color=B19CD9&center=true&vCenter=true&width=560&lines=hi%2C+I'm+Natasha+%E2%9C%A8;into+ai+and+security+%F0%9F%92%9C;welcome+to+my+little+space+%F0%9F%8E%80;so+happy+you+stopped+by+%F0%9F%92%96)](https://github.com/natt-n)
 
 <!-- STICKER SLOT (header): uncomment + add your cutout
 <img src="assets/sticker-star.png" width="55" />
@@ -57,25 +57,30 @@
 <td valign="top" width="33%">
 
 #### 🎓 School
-- [Coursework Builds](https://github.com/stars/[username]/lists/[list])
-- [Study & Notes Tools](https://github.com/stars/[username]/lists/[list])
-- [Research](https://github.com/stars/[username]/lists/[list])
+- [Research](https://github.com/stars/[natt-n]/lists/[research-projects])
+- [Coursework Builds](https://github.com/stars/[natt-n]/lists/[projects-2021-2025])
+- [Solo Learning](https://github.com/stars/[natt-n]/lists/[learning])
 
 </td>
 <td valign="top" width="33%">
 
-#### 💻 Hackathons
-- [Winning Builds](https://github.com/stars/[username]/lists/[list])
-- [Weekend Projects](https://github.com/stars/[username]/lists/[list])
-- [Team Repos](https://github.com/stars/[username]/lists/[list])
+#### 🏆 Hackathons
+- [All Builds](https://github.com/stars/[natt-n]/lists/[hackathons])
+- [My First Solo Build](https://github.com/natt-n/GenAI-Genesis-Hack-2026)
+- [My Latest Team Build](https://github.com/emilyirenelai/HTV23-AI-Tutor)
+- [Other Competitions - coming soon]
 
 </td>
 <td valign="top" width="33%">
 
 #### 💼 Work & Internships
-- [Internship Work](https://github.com/stars/[username]/lists/[list])
-- [Tools I Rely On](https://github.com/stars/[username]/lists/[list])
-- [Learning Picks](https://github.com/stars/[username]/lists/[list])
+- [All Internships](https://github.com/stars/[natt-n]/lists/[internships-work])
+- [SunLife - devops]
+- [Emtech - devops](https://github.com/natt-n/Emtech-POC)
+- [Team Eagle - research](https://github.com/natt-n/Team-Eagle-QA-Dashboard)
+- [Wouessi - pm](https://github.com/anshjindal/tdp-tender-discovery-platform) 
+- [Lumenalta - swe](https://github.com/natt-n/screenshot-to-clipboard)
+- [Atsign - swe](https://github.com/natt-n/atDude_webpage)
 
 </td>
 </tr>
@@ -87,28 +92,6 @@
 
 </div>
 
-<!--
-  ALTERNATIVE LAYOUT — collapsible sections (best if you have LOTS of lists,
-  keeps your profile tidy). Delete the table above and uncomment this:
-
-  <details>
-  <summary>🎓 <b>School</b></summary>
-  <br>
-
-  - [Coursework Builds](url)
-  - [Study & Notes Tools](url)
-
-  </details>
-
-  <details>
-  <summary>💻 <b>Hackathons</b></summary>
-  <br>
-
-  - [Winning Builds](url)
-
-  </details>
--->
-
 ---
 
 <div align="center">
@@ -118,6 +101,6 @@
 <img src="assets/sticker-heart.png" width="50" />
 -->
 
-<sub>✿｡ made with a lot of lavender & a little love ｡✿</sub>
+<sub>✿｡ endlessly learning ｡✿</sub>
 
 </div>
