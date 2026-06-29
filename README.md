@@ -24,7 +24,7 @@
 ### ✦｡ a little about me ｡✦
 
 🌸 &nbsp; [devops intern / research student / hackathon enthusiast] <br>
-🪄 &nbsp; [looking for fall 2026 roles] <br>
+🪄 &nbsp; [looking for summer 2027 roles] <br>
 🧁 &nbsp; [cooking up fun research]
 
 </div>
